@@ -1,7 +1,10 @@
 ## Hi there 👋
-
-![Anurag's GitHub stats](https://github-readme-stats-nine-fawn-75.vercel.app/api?username=Salai-Kowshikan&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=midnight-purple&hide_border=true)
-[![Top Langs](https://github-readme-stats-nine-fawn-75.vercel.app/api/top-langs/?username=Salai-Kowshikan)
+<a href="https://github.com/Salai-Kowshikan/github-readme-stats">
+  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api?username=anuraghazra](https://github-readme-stats-nine-fawn-75.vercel.app/api?username=Salai-Kowshikan&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=midnight-purple&hide_border=true)" />
+</a>
+<a href="[https://github.com/anuraghazra/convoychat](https://github.com/Salai-Kowshikan/github-readme-stats)">
+  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320](https://github-readme-stats-nine-fawn-75.vercel.app/api/top-langs/?username=Salai-Kowshikan&show_icons=true&theme=midnight-purple&hide_border=true)" />
+</a>
 <!--
 **Salai-Kowshikan/Salai-Kowshikan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
