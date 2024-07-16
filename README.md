@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats-nine-fawn-75.vercel.app/api?username=Salai-Kowshikan&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=midnight-purple)
+![Anurag's GitHub stats](https://github-readme-stats-nine-fawn-75.vercel.app/api?username=Salai-Kowshikan&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=midnight-purple&hide_border=true)
 <!--
 **Salai-Kowshikan/Salai-Kowshikan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
