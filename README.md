@@ -1,10 +1,13 @@
 ## Hi there 👋
-<a href="https://github.com/Salai-Kowshikan/github-readme-stats">
+<div style="">
+  <a href="https://github.com/Salai-Kowshikan/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-nine-fawn-75.vercel.app/api?username=Salai-Kowshikan&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github&custom_title=Beep-Boop" />
-</a>
-<a href="https://github.com/Salai-Kowshikan/github-readme-stats">
+  </a>
+  <a href="https://github.com/Salai-Kowshikan/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-nine-fawn-75.vercel.app/api/top-langs/?username=Salai-Kowshikan&show_icons=true&theme=midnight-purple&hide_border=true&layout=donut-vertical" />
-</a>
+  </a>
+</div>
+
 <!--
 **Salai-Kowshikan/Salai-Kowshikan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
