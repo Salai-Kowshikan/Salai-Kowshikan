@@ -1,5 +1,5 @@
 ## Hi there 👋
-<div style="display: flex; justify-content: space-between;">
+<!--<div style="display: flex; justify-content: space-between;">
   <a href="https://github.com/Salai-Kowshikan/github-readme-stats">
     <img height="300" align="center" src="https://github-readme-stats-nine-fawn-75.vercel.app/api?username=Salai-Kowshikan&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github&custom_title=Beep-Boop" />
   </a>
